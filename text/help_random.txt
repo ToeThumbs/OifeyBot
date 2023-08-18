@@ -1,4 +1,4 @@
-`@Oifey random` - Picks a random character from the main games or Heroes.
+`@Augustus random` - Picks a random character from the main games or Heroes.
 
 And you can pick a character from a specific region:
 
