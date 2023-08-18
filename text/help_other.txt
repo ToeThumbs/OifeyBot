@@ -1,8 +1,8 @@
 **Heroes**
-`@Oifey feh` - Heroes
+`@Augustus feh` - Heroes
 
-`@Oifey skill` - Shortcut for Heroes skills.
-`@Oifey art` - Shortcut for Heroes art.
-`@Oifey artist` - Shortcut for Heroes artist.
-`@Oifey va` - Shortcut for Heroes VA.
-`@Oifey quotes` - Shortcut for Heroes quotes.
+`@Augustus skill` - Shortcut for Heroes skills.
+`@Augustus art` - Shortcut for Heroes art.
+`@Augustus artist` - Shortcut for Heroes artist.
+`@Augustus va` - Shortcut for Heroes VA.
+`@Augustus quotes` - Shortcut for Heroes quotes.
