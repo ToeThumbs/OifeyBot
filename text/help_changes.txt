@@ -1,11 +1,11 @@
-My name is Oifey, i'm a bot made to show data based on the Fire Emblem games!
-All of the commands can also be used via DMs!
+My name is Augustus, i'm a bot made to show data based on the Fire Emblem games!
+All of the commands can also be used via DMs!  I am based off the original Oifey bot by Izumi
 
 To use them, type `/` to see all of the available ones!
 To use the classic way (via text), do this:
 
-`@Oifey help`
+`@Augustus help`
 
 And a list of commands will be show!
 
-[Support me on Ko-Fi](https://ko-fi.com/izumi)
+[Support Izumi on Ko-Fi](https://ko-fi.com/izumi)
